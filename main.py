@@ -41,5 +41,5 @@ for i in range(len(lines_converted)):
         other.writelines(lines_converted[i].rstrip() + "\n")
 
 print("ALL EMAILS CHECKED SUCCESSFULLY!")
-print("COPYRIGHTS ©")
+print("COPYRIGHTS")
 print("CREATED BY HACK3R_0M")
